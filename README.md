@@ -29,7 +29,7 @@ decisão.
 - 📫 # Moro na Zona Sul de São Paulo - Capital
 
 - 📧   E-mail: vanessamo.88@gmail.com
-- 📲   Cel: (11)96753-6534
+- 📲   Cel: +55(11)96753-6534
 
 
 <!--
