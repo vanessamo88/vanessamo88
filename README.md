@@ -20,6 +20,11 @@ otimizar processos internos ou melhorar a tomada de decisões estratégicas.
 → Já desenvolvi projetos voltados para análise de dados, GitHub, tratamento de erros, scripts de
 extração, exploração, manipulação, visualização de dados em Python e SQL.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=ProjetoSQL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=PredicaoDiabetes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=Projeto-Dashboard-COVID-19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=Projeto-LOGGI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 → Tenho habilidades em Python (variáveis, tipos de dados, estruturas, funções, tratamento de erros), Pandas,
 Matplotlib, scripting, coleta e manipulação de dados, visualização de dados, storytelling, controle de
 versão, SQL, computação em nuvem, Big Data.
