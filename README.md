@@ -1,5 +1,7 @@
 ## Olá! Me chamo Vanessa! Bem-vindo(a)!  👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessamo88&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 # Atualmente, estudo Análise de Dados na EBAC - Escola Britânica de Artes Criativas & Tecnologia.
   
 - 🌱 # Estou adquirindo muito conhecimento em Python, SQL, Big Data e Power BI.
@@ -45,4 +47,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+linguagens utilizadas [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamo88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
+
 -->
