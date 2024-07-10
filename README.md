@@ -2,9 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessamo88&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 # Atualmente, estudo Análise de Dados na EBAC - Escola Britânica de Artes Criativas & Tecnologia.
+- 🔭 # Analista de Dados pela EBAC - Escola Britânica de Artes Criativas & Tecnologia.
   
-- 🌱 # Estou adquirindo muito conhecimento em Python, SQL, Big Data e Power BI.
+- 🌱 # Conhecimento em Python, SQL, Big Data e Power BI.
   
 - 🎓 # Cursei Biomedicina, mas após 12 anos na área, estou em transição de carreira!
   
