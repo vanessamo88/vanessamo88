@@ -24,6 +24,8 @@ extração, exploração, manipulação, visualização de dados em Python e SQL
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=PredicaoDiabetes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=Projeto-Dashboard-COVID-19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=Projeto-LOGGI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=PipelineDadosTelegram&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 → Tenho habilidades em Python (variáveis, tipos de dados, estruturas, funções, tratamento de erros), Pandas,
 Matplotlib, scripting, coleta e manipulação de dados, visualização de dados, storytelling, controle de
