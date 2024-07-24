@@ -18,7 +18,7 @@ aplico esses princípios para transformar dados brutos em insights valiosos, sej
 otimizar processos internos ou melhorar a tomada de decisões estratégicas.
 
 → Já desenvolvi projetos voltados para análise de dados, GitHub, tratamento de erros, scripts de
-extração, exploração, manipulação, visualização de dados em Python e SQL.
+extração, exploração, manipulação, visualização de dados em Python, implementei pipelines de dados utilizando AWS e SQL.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=ProjetoSQL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessamo88&repo=PredicaoDiabetes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
